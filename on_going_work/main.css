@@ -1,0 +1,100 @@
+html {
+  width: 100%;
+}
+
+body {
+  margin: 0;
+  width: 100%;
+}
+
+.jumbotron {
+  padding: 30px 15px;
+  margin-bottom: 30px;
+  background-color: #eee;
+}
+
+.container {
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.jumbotron .container h1 {
+  font-size: 64px;
+  text-align: center;
+  font-family: 'Prociono', serif;
+}
+
+.jumbotron .container p {
+  font-size: 24px;
+  text-align: center;
+  font-family: 'Prociono', serif;
+}
+
+.container form{
+  text-align: center;
+}
+
+.container button{
+  margin: 15px;
+  width: 25%;
+  height: 50px;
+  font-size: 150%;
+}
+
+.container button:hover {
+  background: rgba(188,202,206,0.15);
+  border-color: inherit;
+}
+
+.login-form div input {
+  width: 25%;
+  height: 25px;
+}
+
+.wrapper {
+  width: 100%;
+  margin: 10px;
+}
+
+.wrapper .title {
+  height: 15px;
+  width: 33%;
+  display: inline-block;
+  font-size: 150%;
+  font-family: 'Prociono', serif;
+  text-align: center;
+}
+
+.wrapper .row {
+  height: 590px;
+  width: 32%;
+  display: inline-block;
+  border-style: solid;
+}
+
+.wrapper.header {
+  background-color: black;
+}
+
+.wrapper .title h2 {
+  margin: 1%;
+}
+
+.wrapper .title input {
+  width: 90%;
+}
+
+div#drink_table {
+  overflow: scroll;
+}
+
+button.item {
+  width: 16em;
+  height: 4em;
+}
+
+th.item, td.item {
+  min-width: 4em;
+}

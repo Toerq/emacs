@@ -1,0 +1,18 @@
+{
+    "language": {
+        "english": {
+            "index_title": "Stormrider Bar",
+            "index_subtitle": "Welcome to best Uppsala bar!",
+            "index_placeholder_text": "Username",
+            "index_placeholder_password": "Password",
+            "index_login_button": "Log in"
+        },
+        "spanish": {
+            "index_title": "Bar Jinete de Tormenta",
+            "index_subtitle": "Bienvenido al mejor bar de Uppsala!",
+            "index_placeholder_text": "Usuario",
+            "index_placeholder_password": "Contraseña",
+            "index_login_button": "Iniciar sesión"
+        }
+    }
+}

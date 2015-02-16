@@ -1,0 +1,18 @@
+[submodule "lib/can"]
+	path = lib/can
+	url = https://github.com/joolify/canjs.git
+[submodule "lib/jquerypp"]
+	path = lib/jquerypp
+	url = https://github.com/joolify/jquerypp.git
+[submodule "lib/documentjs"]
+	path = lib/documentjs
+	url = https://github.com/joolify/documentjs.git
+[submodule "lib/jmvc"]
+	path = lib/jmvc
+	url = https://github.com/joolify/jmvc-generators.git
+[submodule "lib/steal"]
+	path = lib/steal
+	url = https://github.com/joolify/legacy-steal.git
+[submodule "lib/funcunit"]
+	path = lib/funcunit
+	url = https://github.com/joolify/funcunit.git
